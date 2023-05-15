@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525689268476",
+    "project_id": "flutter-core-tecinus",
+    "storage_bucket": "flutter-core-tecinus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525689268476:android:e4808cc8e58ff106088f79",
+        "android_client_info": {
+          "package_name": "com.example.flutter_core"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525689268476-l0eq30c682vo1132vue8einrb3oc1mu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAstfiNZ6DHsAqB7N7YQS70xgpIjuRG_W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525689268476-l0eq30c682vo1132vue8einrb3oc1mu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
